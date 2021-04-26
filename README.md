@@ -7,6 +7,8 @@ Matlab app designed for easy visualization of 3D volumes and 4D dynamic volumes 
 
 Created 26.4.2021
 
+![Screenshot of the app](appScreenshot.png)
+
 **Description**
 
 Matlab app desgined for easy visualization of high dimensional data such as 3D volumes and 4D dynamic volumes.
