@@ -17,7 +17,7 @@ Colormap options allow the user to choose from Matlab default colormaps or give 
 
 **Installation**
 
-Either download the .mlapp-file **sliceViewerApp.mlapp** and run the app in Matlab with `sliceviewer(volume, colormap)` (colormap is optional) **or** download the Matlab app installer file **sliceViewerApp.mlappinstall** and then something something...
+Download the .mlapp-file **sliceViewerApp.mlapp** and run the app in Matlab with `sliceviewer(volume, colormap)`. Volume can be eitehr 3D or 4D and colormap is optional.
 
 **Updates**
 
